@@ -8,7 +8,7 @@ Merci de verifier les points suivants lors de la generation du BI :
   N.B : ce changement de separateur décimal est fait une seule fois (ne pas repeter cela avant chaque generation !!)
 
 
-** avant la generation : 
+** avant la géneration : 
 
  1- télecharger le fichier excel recu(BI) et verifier qu'il contient les 4 ongles : "Tab2", "tab4_equi_financier","C R" et "tab tresorerie"
  2- télécharger le contenu  Dossier BI (sous  Doc-model --> 1.0) 
@@ -22,7 +22,7 @@ Merci de verifier les points suivants lors de la generation du BI :
     , exercice:numero d'exercice exemple (2021,2022..)).
   
 
-** aprés la generation de script sql: 
+** aprés la géneration de script sql: 
 
     2- verifier dans le script generé les correspandances suivantes : 
        2-a - l'exercice doit etre l'exercice mentionné sur le fichier excel d'entée

@@ -8,7 +8,8 @@ Merci de verifier les points suivants lors de la generation du BR :
   N.B : ce changement de separateur décimal est fait une seule fois (ne pas repeter cela avant chaque generation !!)
 
 
-** avant la generation : 
+** avant la génération : 
+
 
  1- télecharger le fichier excel recu(BR) et verifier qu'il contient les trois ongles : Tab2, tab4_equi_financier,C R
  2- télécharger le Dossier BR (sous  Doc-model --> 1.0) 
@@ -20,12 +21,12 @@ Merci de verifier les points suivants lors de la generation du BR :
     ,BRNum :numéro br exemple (BR1 ,BR2 etc..), et exercice:numero d'exercice exemple (2021,2022..)).
   
 
-** aprés la generation de script sql: 
+** aprés la génération de script sql: 
 
     2- verifier dans le script generé les correspandances suivantes : 
        2-a - l'exercice doit etre l'exercice mentionné sur le fichier excel d'entée
        2-b - le no_mvt doit etre  le numero de BR mentionné sur le fichier excel d'entreé  
      exemple:(nom de fichier d'entrée Nancy_BR2_2021.xls :-->> Br=2 et exercice=2021) 
-    3- verifier tous les montants dans le script genéres en comparant avec les montnants dans l'excel d'entré.
+    3- verifier tous les montants dans le script genéres en comparant avec les montnants dans l'excel d'entrée.
  
 
