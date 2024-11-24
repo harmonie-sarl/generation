@@ -1,0 +1,33 @@
+
+DELETE FROM budgtresorerieplan where num_exec=2023 and periode=1
+
+
+insert into budgtresorerieplan select 2023,1,3,0,0,853320,0,0,0,0,853320,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,4,0,0,70000,0,0,0,0,40000,35000,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,5,0,0,0,0,0,0,0,18000,0,0,0,7000,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,6,0,10000,26600,0,1500000,0,0,0,33400,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,7,6000,12000,23000,40000,10000,7000,90000,10000,40000,10000,82000,10000,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,8,0,0,3990,0,0,0,0,0,3990,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,9,0,11000,0,15000,0,0,45000,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,17,0,0,30000,0,0,0,0,0,0,0,50000,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,21,20000,130000,80000,85000,70000,80000,90000,2020,80000,120000,86000,99000,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,22,80000,120000,120000,90000,120000,110000,110000,25620,140000,140000,130000,150000,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,24,0,380000,0,0,0,80000,50000,0,0,20000,0,1100000,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,25,0,100,2000,600,0,1800,0,500,500,1400,580,500,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,26,0,0,0,0,0,0,0,0,0,60000,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,32,0,0,30000,0,0,0,0,0,0,0,50000,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+insert into budgtresorerieplan select 2023,1,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'P','','',null,'','',null,'USER1',getdate(),'USER1',getdate()	
+

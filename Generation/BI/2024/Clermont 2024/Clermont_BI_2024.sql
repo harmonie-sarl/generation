@@ -1,0 +1,106 @@
+
+/* ABP : 01 --> 29*/ 
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','01',1000000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','02',1000000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','03',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','04',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','05',1455300,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','06',1405000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','07',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','08',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','09',3174000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','10',1650000,getdate(),'USER1',getdate(),'USER1'			
+			
+			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','13',2380000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','14',1800000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','15',165000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','16',25000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','17',50000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','18',340000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','19',1025000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','20',10000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','21',1015000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','22',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','23',5629300,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','24',4055000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','25',3405000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','26',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','27',650000,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','28',0,getdate(),'USER1',getdate(),'USER1'			
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'ABP','29',0,getdate(),'USER1',getdate(),'USER1'			
+
+
+/* EFP 01 --> 18*/
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','01',650000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','02',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','03',100000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','04',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','09',750000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','05',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','06',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','07',100000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','08',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','10',100000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','11',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','12',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','13',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','14',650000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','15',400000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','16',250000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','17',750000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'EFP','18',750000,getdate(),'USER1',getdate(),'USER1'		
+
+
+/* CRP 01-->14 */
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','01',1000000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','02',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','03',1763000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','04',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','05',1975000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','06',25000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','07',65000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','08',548000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','09',2763000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','10',2613000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','11',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','12',150000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','13',2763000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CRP','14',2763000,getdate(),'USER1',getdate(),'USER1'		
+
+
+/* CAFP  01 --> 07*/
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','01',-150000,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','02',358000,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','03',208000,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','04',0,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','05',0,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','06',0,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'CAFP','07',0,getdate(),'USER1',getdate(),'USER1'	
+
+
+/* TFP 01 --> 14 */
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','01',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','02',1650000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','03',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','04',1650000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','05',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','06',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','07',1000000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','08',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','09',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','10',1000000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','11',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','12',650000,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','13',0,getdate(),'USER1',getdate(),'USER1'		
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'TFP','14',0,getdate(),'USER1',getdate(),'USER1'		
+	
+
+/* SPP2 01 --> 06*/
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','01',-650000,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','02',0,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','03',-650000,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','04',2427606.01,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','05',-315487.82,getdate(),'USER1',getdate(),'USER1'	
+insert into GbcpDematBIBR(num_exec,code_budg,no_mvt,type_lib,code_lib,montant,date_crea,aut_crea,date_maj,aut_maj) select 2024,'A',0,'SPP2','06',2743093.83,getdate(),'USER1',getdate(),'USER1'	
+		

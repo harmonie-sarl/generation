@@ -1,0 +1,93 @@
+/* ABE: update GbcpDematABE libelle '01' -> '27' except 11 et 12*/
+update GbcpDematABE set montant=619549.55, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='01'
+update GbcpDematABE set montant=619549.55, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='02'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='03'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='04'
+update GbcpDematABE set montant=1623375.53, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='05'
+update GbcpDematABE set montant=1620996.02, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='06'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='07'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='08'
+update GbcpDematABE set montant=867083.86, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='09'
+update GbcpDematABE set montant=908172.76, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='10'
+update GbcpDematABE set montant=3088267.33, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='13'
+update GbcpDematABE set montant=1802631, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='14'
+update GbcpDematABE set montant=909357, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='15'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='16'
+update GbcpDematABE set montant=190087.12, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='17'
+update GbcpDematABE set montant=186192.21, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='18'
+update GbcpDematABE set montant=671443.4, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='19'
+update GbcpDematABE set montant=575815, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='20'
+update GbcpDematABE set montant=74704.4, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='21'
+update GbcpDematABE set montant=20924, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='22'
+update GbcpDematABE set montant=3110008.94, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='23'
+update GbcpDematABE set montant=3148718.33, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='24'
+update GbcpDematABE set montant=3759710.73, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='25'
+update GbcpDematABE set montant=610992.4, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='26'
+update GbcpDematABE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='27'
+
+
+
+
+/* EFE update GbcpDematEFE libelle '01' -> '18'*/
+
+update GbcpDematEFE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='01'
+update GbcpDematEFE set montant=5600, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='02'
+update GbcpDematEFE set montant=54649.6, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='03'
+update GbcpDematEFE set montant=2268.83, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='04'
+update GbcpDematEFE set montant=62518.43, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='09'
+update GbcpDematEFE set montant=610992.4, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='05'
+update GbcpDematEFE set montant=5400, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='06'
+update GbcpDematEFE set montant=90246.6, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='07'
+update GbcpDematEFE set montant=13639.92, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='08'
+update GbcpDematEFE set montant=720278.92, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='10'
+update GbcpDematEFE set montant=657760.49, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='11'
+update GbcpDematEFE set montant=499083.78, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='12'
+update GbcpDematEFE set montant=158676.71, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='13'
+update GbcpDematEFE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='14'
+update GbcpDematEFE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='15'
+update GbcpDematEFE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='16'
+update GbcpDematEFE set montant=720278.92, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='17'
+update GbcpDematEFE set montant=720278.92, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='18'
+
+
+
+/* TSBCE update GbcpDematTSBCE libelle '01' -> '33'*/
+
+
+update GbcpDematTSBCE set montant=95570.48, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='01'
+update GbcpDematTSBCE set montant=2769502.13, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='02'
+update GbcpDematTSBCE set montant=-86224.68, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='03'
+update GbcpDematTSBCE set montant=2855726.81, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='04'
+update GbcpDematTSBCE set montant=127389.9, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='05'
+update GbcpDematTSBCE set montant=2728336.91, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='06'
+update GbcpDematTSBCE set montant=3110008.94, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='07'
+update GbcpDematTSBCE set montant=134755.61, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='08'
+update GbcpDematTSBCE set montant=134755.61, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='09'
+update GbcpDematTSBCE set montant=617954.85, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='10'
+update GbcpDematTSBCE set montant=-200, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='11'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='12'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='13'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='14'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='15'
+update GbcpDematTSBCE set montant=7162.45, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='16'
+update GbcpDematTSBCE set montant=-1158.68, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='17'
+update GbcpDematTSBCE set montant=8321.13, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='18'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='19'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='20'
+update GbcpDematTSBCE set montant=610992.4, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='21'
+update GbcpDematTSBCE set montant=-46768.09, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='22'
+update GbcpDematTSBCE set montant=657760.49, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='23'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='24'
+update GbcpDematTSBCE set montant=0, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='25'
+update GbcpDematTSBCE set montant=-39805.64, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='26'
+update GbcpDematTSBCE set montant=-42905.17, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='27'
+update GbcpDematTSBCE set montant=52665.31, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='28'
+update GbcpDematTSBCE set montant=3387456.98, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='29'
+update GbcpDematTSBCE set montant=-126030.32, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='30'
+update GbcpDematTSBCE set montant=3513487.3, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='31'
+update GbcpDematTSBCE set montant=626473.68, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='32'
+update GbcpDematTSBCE set montant=2887013.62, date_maj=getdate() , aut_maj='USER1'  where num_exec=2022 and code_export='06' and libelle='33'
+
+
+
+
